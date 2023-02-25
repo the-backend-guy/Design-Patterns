@@ -1,0 +1,1 @@
+This Repository contains all the commonly followed Design Patterns.
